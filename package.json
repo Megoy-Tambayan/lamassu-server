@@ -42,7 +42,7 @@
     "date-fns-tz": "^1.1.6",
     "dateformat": "^3.0.3",
     "dotenv": "^16.0.0",
-    "elliptic-sdk": "^0.7.2",
+    "elliptic-sdk": "^0.9.0",
     "ethereumjs-tx": "^1.3.3",
     "ethereumjs-util": "^5.2.0",
     "ethereumjs-wallet": "^0.6.3",
