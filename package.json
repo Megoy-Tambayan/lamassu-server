@@ -11,7 +11,7 @@
     "@bitgo/sdk-coin-btc": "1.7.22",
     "@bitgo/sdk-coin-dash": "1.5.22",
     "@bitgo/sdk-coin-ltc": "2.2.22",
-    "@bitgo/sdk-coin-zec": "1.5.22",
+    "@bitgo/sdk-coin-zec": "2.1.24",
     "@ethereumjs/common": "^2.6.4",
     "@ethereumjs/tx": "^3.5.1",
     "@graphql-tools/merge": "^6.2.5",
