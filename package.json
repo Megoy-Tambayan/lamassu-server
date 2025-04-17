@@ -86,7 +86,7 @@
     "serve-static": "^1.12.4",
     "talisman": "^0.20.0",
     "telnyx": "^1.25.5",
-    "tronweb": "^5.3.0",
+    "tronweb": "^6.0.0",
     "twilio": "^3.6.1",
     "uuid": "8.3.2",
     "web3": "1.7.1",
